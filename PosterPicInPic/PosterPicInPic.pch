@@ -1,0 +1,25 @@
+//
+//  PosterPicInPic.pch
+//  PosterPicInPic
+//
+//  Created by zw on 2020/4/7.
+//  Copyright © 2020 zw. All rights reserved.
+//
+
+#ifndef PosterPicInPic_pch
+#define PosterPicInPic_pch
+
+#import <UIKit/UIKit.h>
+#import "QSToolDefine.h"
+#import "QSAPIUrl.h"
+#import "UIImageView+WebCache.h"
+#import "UIView+SetGet.h"
+#import "ZWLeftViewMarginTextField.h"
+#import "ZWViewControls.h"
+#import "PIPCollectionView.h"
+#import "LEEAlert.h"
+
+
+
+
+#endif /* PosterPicInPic_pch */
